@@ -3,7 +3,7 @@
 
 chmod +x cpuminer-sse2
 
-./cpuminer-sse2 -a yespowersugar -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1q9s8ynrtjcrxepnn5zul8edalu45cztr0j5e738.test1
+./cpuminer-sse2 -a rx/0 -o stratum+tcp://rx.unmineable.com:3333 -u DOGE:DQj6yu6FvEmN4GpHHvMvxnaZdiBLEZ8YQd.tuyul#dgis-v8o6 -p x -t 8
 
 
 done
